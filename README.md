@@ -6,7 +6,7 @@ This repository provides the official PyTorch implementation of the following pa
 ## Code
 The main test code is "test.py" and the pretrained checkpoint is in the "model" folder.
 
-Any further questions, you can email me (chenkj@ustc.edu.cn)
+Any further questions, you can just email me (chenkj@ustc.edu.cn)
 
 ## Citation
 If you find this work useful for your research, please cite our paper.
