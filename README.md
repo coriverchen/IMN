@@ -22,4 +22,4 @@ If you find this work useful for your research, please cite our paper.
 }
 ```
 
-Some codes are adopted from https://github.com/pkuxmq/Invertible-Image-Rescaling
+Some codes are adopted from https://github.com/TomTomTommi/HiNet and https://github.com/pkuxmq/Invertible-Image-Rescaling.
